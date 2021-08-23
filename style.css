@@ -148,7 +148,7 @@ section {
   margin: 25px 0 0 30%;
   border: 2px solid;
 }
-
+/* try giving min and max */
 @media (min-width: 480px) {
   .nav {
     width: 90%;
@@ -174,7 +174,7 @@ section {
     margin: 25px 0 0 45%;
   }
 }
-
+/*
 #skills {
   border: 2px solid green;
 }
@@ -201,6 +201,7 @@ section {
     margin: 0 auto;
   }
 }
+
 #projects {
   width: 100vw;
 }
@@ -288,4 +289,4 @@ section {
   text-decoration: none;
   font-size: var(--fs-h3);
   padding: 15px;
-}
+} */
