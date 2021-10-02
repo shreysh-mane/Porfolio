@@ -19,35 +19,20 @@
 article {
   margin: 2em 1em;
 }
-
-#symbol {
-  font-size: 10px;
+.blog__img {
+  /* border: 5px solid yellow; */
+  width: 100%;
 }
 img {
   width: 100%;
-  height: 300px;
-  object-fit: contain;
+  /* height: 175px; */
+  object-fit: cover;
+  min-height: 50px;
+  object-position: left;
 }
 .article__title {
   margin: 0 0 0.5em;
 }
 .article__content {
   margin: 0 0 0.5em;
-}
-
-#blog__img-1 {
-  width: 50%;
-  height: 300px;
-  margin: auto;
-}
-#blog__img-2 {
-  
-  border: 5px solid yellow;
-  width: 70%;
-  margin: 15px auto;
-}
-#img2 {
-  object-fit: fill;
-  height: 500px;
-
 }
