@@ -5,6 +5,15 @@
   margin: 0;
   box-sizing: border-box;
 }
+p {
+  font-size: 1.25rem;
+}
+.article__title {
+  font-size: 1.75rem;
+}
+.article_subtitle {
+  font-size: 1.5rem;
+}
 
 .container {
   width: 80%;
@@ -41,7 +50,6 @@ img {
   margin: auto;
 }
 #blog__img-2 {
-  
   border: 5px solid yellow;
   width: 70%;
   margin: 15px auto;
@@ -49,5 +57,4 @@ img {
 #img2 {
   object-fit: fill;
   height: 500px;
-
 }
